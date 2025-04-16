@@ -21,6 +21,8 @@ Esta API REST desenvolvida em **Java com Spring Boot** permite consultar a dispo
 - Maven 3.8 ou superior
 - IDE (opcional): IntelliJ, Eclipse ou VSCode
 
+---
+
  ### 🔍 Como testar o projeto
 
 Após executar o projeto, acesse o endereço: [http://localhost:8080](http://localhost:8080)
