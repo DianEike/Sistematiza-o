@@ -1,0 +1,7 @@
+{
+  "profissionais": [
+    { "nome": "Dra. Ana Silva", "especialidade": "Cardiologia" },
+    { "nome": "Dr. João Pereira", "especialidade": "Ortopedia" },
+    { "nome": "Dra. Carla Souza", "especialidade": "Nutrição" }
+  ]
+}
