@@ -35,7 +35,7 @@ Use uma ferramenta como **Postman** ou **Insomnia** para fazer requisições à 
 ```bash
 # Clone o repositório
 https://github.com/Dian.Andrade/sistematizacao.git
-cd sistematizacao
+
 
 
 
